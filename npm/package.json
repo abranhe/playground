@@ -1,0 +1,10 @@
+{
+  "name": "@abranhe/playground",
+  "version": "1.0.0",
+  "description": "The @abranhe's Playground",
+  "main": "index.js",
+  "repository": "https://github.com/abranhe/playground",
+  "author": "Carlos Abraham",
+  "license": "WTFPL",
+  "files": ["index.js"]
+}
