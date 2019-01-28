@@ -1,3 +1,3 @@
 module.exports = () => {
-    return "@abranhe/playground"
+    return "Programming"
 }

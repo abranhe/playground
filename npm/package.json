@@ -1,10 +1,8 @@
 {
-  "name": "@abranhe/playground",
-  "version": "1.0.0",
-  "description": "The @abranhe's Playground",
+  "name": "programming",
+  "version": "0.0.0-placeholder",
+  "description": "Placeholder",
   "main": "index.js",
-  "repository": "https://github.com/abranhe/playground",
   "author": "Carlos Abraham",
-  "license": "WTFPL",
   "files": ["index.js"]
 }
